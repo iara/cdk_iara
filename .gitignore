@@ -125,5 +125,10 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+
+#my-project
+cdk.out/
+
+
 # Pyre type checker
 .pyre/
